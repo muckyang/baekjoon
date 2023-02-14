@@ -1,3 +1,12 @@
+## 2023/02/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15779](https://www.acmicpc.net/problem/15779) | [Zigzag](https://www.acmicpc.net/problem/15779) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14267](https://www.acmicpc.net/problem/14267) | [회사 문화 1](https://www.acmicpc.net/problem/14267) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20366](https://www.acmicpc.net/problem/20366) | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |
+
 ## 2023/02/14 
 
 | 난이도 | 번호 | 문제 이름 |
