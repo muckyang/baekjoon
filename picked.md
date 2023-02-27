@@ -1,3 +1,12 @@
+## 2023/02/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2304](https://www.acmicpc.net/problem/2304) | [창고 다각형](https://www.acmicpc.net/problem/2304) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2178](https://www.acmicpc.net/problem/2178) | [미로 탐색](https://www.acmicpc.net/problem/2178) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17090](https://www.acmicpc.net/problem/17090) | [미로 탈출하기](https://www.acmicpc.net/problem/17090) |
+
 ## 2023/02/27 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -272,7 +281,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16943](https://www.acmicpc.net/problem/16943) | [숫자 재배치](https://www.acmicpc.net/problem/16943) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2800](https://www.acmicpc.net/problem/2800) | [괄호 제거](https://www.acmicpc.net/problem/2800) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
@@ -2576,7 +2585,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2877](https://www.acmicpc.net/problem/2877) | [4와 7](https://www.acmicpc.net/problem/2877) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17485](https://www.acmicpc.net/problem/17485) | [진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
@@ -4484,7 +4493,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17503](https://www.acmicpc.net/problem/17503) | [맥주 축제](https://www.acmicpc.net/problem/17503) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14925](https://www.acmicpc.net/problem/14925) | [목장 건설하기](https://www.acmicpc.net/problem/14925) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16971](https://www.acmicpc.net/problem/16971) | [배열 B의 값](https://www.acmicpc.net/problem/16971) |
