@@ -1,3 +1,12 @@
+## 2023/03/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4134](https://www.acmicpc.net/problem/4134) | [다음 소수](https://www.acmicpc.net/problem/4134) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
+
 ## 2023/03/26 
 
 | 난이도 | 번호 | 문제 이름 |
