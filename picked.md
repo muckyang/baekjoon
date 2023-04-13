@@ -1,3 +1,12 @@
+## 2023/04/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16162](https://www.acmicpc.net/problem/16162) | [가희와 3단 고음](https://www.acmicpc.net/problem/16162) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17073](https://www.acmicpc.net/problem/17073) | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4095](https://www.acmicpc.net/problem/4095) | [최대 정사각형](https://www.acmicpc.net/problem/4095) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
+
 ## 2023/04/13 
 
 | 난이도 | 번호 | 문제 이름 |
