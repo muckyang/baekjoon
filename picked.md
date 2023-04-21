@@ -1,3 +1,12 @@
+## 2023/04/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16562](https://www.acmicpc.net/problem/16562) | [친구비](https://www.acmicpc.net/problem/16562) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17208](https://www.acmicpc.net/problem/17208) | [카우버거 알바생](https://www.acmicpc.net/problem/17208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
+
 ## 2023/04/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -641,7 +650,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
@@ -3773,7 +3782,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [7562](https://www.acmicpc.net/problem/7562) | [나이트의 이동](https://www.acmicpc.net/problem/7562) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16571](https://www.acmicpc.net/problem/16571) | [알파 틱택토](https://www.acmicpc.net/problem/16571) |
@@ -4799,7 +4808,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16168](https://www.acmicpc.net/problem/16168) | [퍼레이드](https://www.acmicpc.net/problem/16168) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2533](https://www.acmicpc.net/problem/2533) | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
