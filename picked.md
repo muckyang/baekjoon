@@ -1,3 +1,12 @@
+## 2023/05/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1972](https://www.acmicpc.net/problem/1972) | [놀라운 문자열](https://www.acmicpc.net/problem/1972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16937](https://www.acmicpc.net/problem/16937) | [두 스티커](https://www.acmicpc.net/problem/16937) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16956](https://www.acmicpc.net/problem/16956) | [늑대와 양](https://www.acmicpc.net/problem/16956) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1022](https://www.acmicpc.net/problem/1022) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
+
 ## 2023/04/30 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1949,7 +1958,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2866](https://www.acmicpc.net/problem/2866) | [문자열 잘라내기](https://www.acmicpc.net/problem/2866) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1022](https://www.acmicpc.net/problem/1022) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1022](https://www.acmicpc.net/problem/1022) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
 
 ## 2022/07/29 
 
@@ -4297,7 +4306,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16162](https://www.acmicpc.net/problem/16162) | [가희와 3단 고음](https://www.acmicpc.net/problem/16162) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1022](https://www.acmicpc.net/problem/1022) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1022](https://www.acmicpc.net/problem/1022) | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1043](https://www.acmicpc.net/problem/1043) | [거짓말](https://www.acmicpc.net/problem/1043) |
 
 ## 2021/11/07 
