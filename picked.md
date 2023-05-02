@@ -1,3 +1,12 @@
+## 2023/05/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2193](https://www.acmicpc.net/problem/2193) | [이친수](https://www.acmicpc.net/problem/2193) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
+
 ## 2023/05/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -823,7 +832,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12931](https://www.acmicpc.net/problem/12931) | [두 배 더하기](https://www.acmicpc.net/problem/12931) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
 
 ## 2023/01/28 
@@ -3397,7 +3406,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
 
 ## 2022/02/17 
@@ -5737,7 +5746,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12764](https://www.acmicpc.net/problem/12764) | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) |
 
 ## 2021/06/02 
