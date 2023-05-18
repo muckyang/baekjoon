@@ -1,3 +1,12 @@
+## 2023/05/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1240](https://www.acmicpc.net/problem/1240) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1456](https://www.acmicpc.net/problem/1456) | [거의 소수](https://www.acmicpc.net/problem/1456) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1915](https://www.acmicpc.net/problem/1915) | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1922](https://www.acmicpc.net/problem/1922) | [네트워크 연결](https://www.acmicpc.net/problem/1922) |
+
 ## 2023/05/18 
 
 | 난이도 | 번호 | 문제 이름 |
