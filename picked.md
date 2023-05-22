@@ -1,3 +1,12 @@
+## 2023/05/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1759](https://www.acmicpc.net/problem/1759) | [암호 만들기](https://www.acmicpc.net/problem/1759) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2023](https://www.acmicpc.net/problem/2023) | [신기한 소수](https://www.acmicpc.net/problem/2023) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+
 ## 2023/05/22 
 
 | 난이도 | 번호 | 문제 이름 |
