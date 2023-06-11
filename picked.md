@@ -1,3 +1,12 @@
+## 2023/06/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [3029](https://www.acmicpc.net/problem/3029) | [경고](https://www.acmicpc.net/problem/3029) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2156](https://www.acmicpc.net/problem/2156) | [포도주 시식](https://www.acmicpc.net/problem/2156) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+
 ## 2023/06/11 
 
 | 난이도 | 번호 | 문제 이름 |
